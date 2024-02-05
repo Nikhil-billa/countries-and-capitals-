@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border-radius: 12px;
+  width: 60%;
+  background-color: white;
+  text-align: center;
+}
+
+.heading {
+  font-size: 40px;
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.dropdown {
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.label {
+  font-size: 20px;
+}
+
+.dropdown-container {
+  display: flex;
+
+  justify-content: center;
+}
